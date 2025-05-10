@@ -1,2 +1,2 @@
 web: gunicorn 
-app:cancer/app
+app:app
